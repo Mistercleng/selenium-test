@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8127afc-03a8-4bf4-a1c2-fa1552b7887a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/selenium-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/page_factory/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/page_factory/page_locator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/page_object/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/page_object/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/test/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/e2e/utils/definition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="612">
-                <caret line="80" column="134" selection-start-line="80" selection-start-column="134" selection-end-line="80" selection-end-column="134" />
+              <first_editor relative-caret-position="376">
+                <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -194,12 +177,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3292517" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3292517" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -257,8 +240,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="612">
-            <caret line="80" column="134" selection-start-line="80" selection-start-column="134" selection-end-line="80" selection-end-column="134" />
+          <first_editor relative-caret-position="376">
+            <caret line="74" column="3" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
