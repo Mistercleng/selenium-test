@@ -20,8 +20,8 @@ Principal objetivo desse projeto é compartilhar conhecimentos e através de uma
 
 --utils
 
-
-#####Primeiro passo para realizar um bom teste é planejar o teste.
+ 
+## Primeiro passo para realizar um bom teste é planejar o teste.
 **Definição das pré-confições com o setUp**
 
 -Tudo aquilo que será executado para cada teste case executado antes dos steps do test case
@@ -60,7 +60,7 @@ Tudo aquilo que a aplicação deve executar ao final de cada teste case
 **Exemplo** Fechar a janela, limpar o banco de dados e etc.
 
 
-###Page objects
+### Page objects
 
 Tem como objetivo criar um conjunto de funções de teste para reaproveitamento de teste
 e centralizar informações e melhorar a leitura dos testes
@@ -72,7 +72,7 @@ Quando mais desacoplado for seu page object mais facilidade terá em reaproveita
 A funcionalidade pode ser dividia em apenas um comando de input de nome.
 
 
-###Page Factory
+### Page Factory
 
 Facilita o mapeamento de todos os elementos de cada tela do sistema 
 
